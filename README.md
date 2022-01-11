@@ -2,6 +2,10 @@
 
 This is a game where you have to make a story with the words you get. It's based on Storycubes.
 
+[<img src="https://github.com/PrivacyDragon/CalculatorArchivesButtons/blob/main/DownloadOnCemetech.1.png?raw=true"
+     alt="Download it on Cemetech"
+     height="80">](https://ceme.tech/DL2074) 
+
 ##### Important gamerules:
 -You can interpret a word in many different ways. (That's one of the nice things about this game)
 -Every story is correct. It doesn't matter if it's logical or not, everything is correct.
